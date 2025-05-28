@@ -1,0 +1,14 @@
+/Users/yuuki/C#/obj/Debug/net9.0/C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuuki/C#/obj/Debug/net9.0/C#.AssemblyInfoInputs.cache
+/Users/yuuki/C#/obj/Debug/net9.0/C#.AssemblyInfo.cs
+/Users/yuuki/C#/obj/Debug/net9.0/C#.csproj.CoreCompileInputs.cache
+/Users/yuuki/C#/bin/Debug/net9.0/C#
+/Users/yuuki/C#/bin/Debug/net9.0/C#.deps.json
+/Users/yuuki/C#/bin/Debug/net9.0/C#.runtimeconfig.json
+/Users/yuuki/C#/bin/Debug/net9.0/C#.dll
+/Users/yuuki/C#/bin/Debug/net9.0/C#.pdb
+/Users/yuuki/C#/obj/Debug/net9.0/C#.dll
+/Users/yuuki/C#/obj/Debug/net9.0/refint/C#.dll
+/Users/yuuki/C#/obj/Debug/net9.0/C#.pdb
+/Users/yuuki/C#/obj/Debug/net9.0/C#.genruntimeconfig.cache
+/Users/yuuki/C#/obj/Debug/net9.0/ref/C#.dll

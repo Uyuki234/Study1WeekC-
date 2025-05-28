@@ -1,0 +1,12 @@
+# Build results
+bin/
+obj/
+*.exe
+*.dll
+
+# User-specific files
+*.user
+*.suo
+
+# Mac-specific
+.DS_Store

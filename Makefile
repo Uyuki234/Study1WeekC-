@@ -21,3 +21,4 @@ run: build
 # クリーンアップ
 clean:
 	rm -f *.exe *.pdb
+	

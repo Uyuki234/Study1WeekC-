@@ -10,3 +10,6 @@ obj/
 
 # Mac-specific
 .DS_Store
+
+# バックアップフォルダを追跡しない
+Study1WeekC_Sharp_backup/
